@@ -198,7 +198,6 @@ p{
 }
 
 ul{
-    display: flex;
     columns: 2;
     list-style-image: url(imagens/marcacao.png);
 }
