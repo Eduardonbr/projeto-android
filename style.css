@@ -50,10 +50,12 @@ header > h1{
 }
 
 header > p{
-    text-indent: 0%;
+    color: white;
+    max-width: 600px;
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
+    padding-bottom: 50px;;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -61,7 +63,7 @@ header > p{
 #main1{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    margin: 0% 20%;
+    margin: 0% 10%;
     background-color: white;
     padding: 20px;
     border-bottom-left-radius: 0px;
@@ -74,7 +76,7 @@ header > p{
 #main2{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    margin: 0% 20%;
+    margin: 0% 10%;
     background-color: white;
     padding: 20px;
     border-bottom-left-radius: 10px;
@@ -86,7 +88,7 @@ header > p{
 
     border-style: solid;
     border-color: var(--cor05);
-    margin: 0px 20%;
+    margin: 0px 10%;
     padding: 20%;
     padding-bottom: 50,5%;
     background-color: var(--cor05);
